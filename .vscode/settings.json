@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "hashtable.h": "c",
+        "types.h": "c",
+        "int-ll64.h": "c",
+        "kernel.h": "c",
+        "hash.h": "c",
+        "list.h": "c",
+        "posix_types.h": "c",
+        "bitsperlong.h": "c",
+        "math.h": "c",
+        "rcupdate.h": "c",
+        "stdint.h": "c",
+        "rculist.h": "c",
+        "compiler.h": "c"
+    }
+}
